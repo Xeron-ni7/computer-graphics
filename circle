@@ -1,3 +1,6 @@
+//this function will create a circle
+
+//x is for co-ordinate,R is radius, r is for red,g is for green , b is for blue
 void draw_circle(int x,int R,int r,int g,int b)
 {
 
