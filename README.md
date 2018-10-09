@@ -1,3 +1,3 @@
 # computer-graphics
 
-Different function using c++ opengl
+Different function using c++ & opengl
